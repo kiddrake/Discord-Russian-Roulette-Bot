@@ -163,4 +163,4 @@ async def reset(ctx):
     client.probability = 6
     await ctx.send("Reset complete!")
 
-client.run('NzQ0MjkwODk2MDY1MDY5MjE3.XzhE6Q.mXWE2JX6kXvM61TpWJ1pmyQw8mI')
+client.run('Secret ;)')
